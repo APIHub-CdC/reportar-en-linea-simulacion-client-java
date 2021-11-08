@@ -1,6 +1,6 @@
 # reportar-en-linea-simulacion-client-java
 
-Devuelve una calificación de acuerdo a los datos financieros basada en el modelo de FICO Score.
+Carga de cuentas de personas físicas
 
 ## Requisitos
 

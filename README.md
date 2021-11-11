@@ -22,7 +22,7 @@ mvn install -Dmaven.test.skip=true
 
 ### Paso 1. Agregar el producto a la aplicación
 
-Al iniciar sesión seguir os siguientes pasos:
+Al iniciar sesión seguir los siguientes pasos:
 
  1. Dar clic en la sección "**Mis aplicaciones**".
  2. Seleccionar la aplicación.
@@ -53,7 +53,7 @@ public void setUp() {
 }
 ```
 
-En el archivo **FicoScoreApiTest**, que se encuentra en ***src/test/java/io/apihub/client/api*** se deberá modificar el siguiente fragmento de código con los datos correspondientes:
+En el archivo **CargaDeCuentasDePersonasFsicasApiTest**, que se encuentra en ***test/java/io/ReportarEnLineaSimulacion/client/api*** se deberá modificar el siguiente fragmento de código con los datos correspondientes:
 
 ```java
 @Test
